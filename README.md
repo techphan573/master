@@ -37,8 +37,8 @@ Products:
 - https://authoring-docs-microsoft.poolparty.biz/devrel/9d7be3ef-f27c-4c7f-9eba-67c3cd429995
 - https://authoring-docs-microsoft.poolparty.biz/devrel/1dd701e0-441f-4b0a-9806-aa47decc4e35
 Products:
-- https://authoring-docs-microsoft.poolparty.biz/devrel/feeb50f3-b677-44f9-b3a6-5f2f58182b0d
-- https://authoring-docs-microsoft.poolparty.biz/devrel/0a2fc935-5977-4aa6-9f55-0be03bd2acb8
+- https://authoring-docs-microsoft.devrel/feeb50f3-b677-44f9-b3a6-5f2f58182b0d
+- https://authoring-docs-microsoft.devrel/0a2fc935-5977-4aa6-9f55-0be03bd2acb8
 platformId: df55a8f2-9a5e-37a5-be01-87433f5ab21d
 ---
 ```
