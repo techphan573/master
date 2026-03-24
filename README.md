@@ -13,32 +13,30 @@ ms.topic: techphan573
 search.appverid: MET150
 ms.service: sharepoint-online
 description: Microsoft SharePoint Embedded is a cloud-based file and document management system suitable for use in any application. SharePoint Embedded is a new API-only solution that enables app developers to harness the power of the Microsoft 365 file and document storage platform for any app, and is suitable for enterprises building line-of-business applications and ISVs building multitenant applications.
-ms.date: 2024-08-17T00:00:00.0000000Z
+ms.date: 2024-08-17TZ
 ms.localizationpriority: high
 locale: en-us
 document_id: 3cdc7a81-923a-fbb8-8a4c-a964d9ecd2cf
 document_version_independent_id: 3cdc7a81-923a-fbb8-8a4c-a964d9ecd2cf
-updated_at: 2026-03-02T13:40:00.0000000Z
+updated_at: 2026-03-02T13:40:Z
 original_content_git_url: https://github.com/SharePoint/sp-dev-docs/blob/live/docs/embedded/overview.md
 gitcommit: https://github.com/SharePoint/sp-dev-docs/blob/928454f5352645df277bf4e46fbffe79ac2a2988/docs/embedded/overview.md
 git_commit_id: 928454f5352645df277bf4e46fbffe79ac2a2988
 site_name: Docs
 depot_name: MSDN.sharepoint-dev
 page_type: conceptual
-toc_rel: ../toc.json
+toc_rel/toc.json
 pdf_url_template: https://learn.microsoft.com/pdfstore/en-us/MSDN.sharepoint-dev/{branchName}{pdfName}
 feedback_help_link_type: ''
 feedback_help_link_url: ''
 word_count: 780
 asset_id: embedded/overview
-moniker_range_name: 
-monikers: []
 item_type: Content
 source_path: docs/embedded/overview.md
-cmProducts:
+Products:
 - https://authoring-docs-microsoft.poolparty.biz/devrel/9d7be3ef-f27c-4c7f-9eba-67c3cd429995
 - https://authoring-docs-microsoft.poolparty.biz/devrel/1dd701e0-441f-4b0a-9806-aa47decc4e35
-spProducts:
+Products:
 - https://authoring-docs-microsoft.poolparty.biz/devrel/feeb50f3-b677-44f9-b3a6-5f2f58182b0d
 - https://authoring-docs-microsoft.poolparty.biz/devrel/0a2fc935-5977-4aa6-9f55-0be03bd2acb8
 platformId: df55a8f2-9a5e-37a5-be01-87433f5ab21d
