@@ -119,7 +119,7 @@ This includes settings from Microsoft Purview compliance, risk, and security set
 
 
 
-- eDiscovery
+- Discovery
 
 - Auditing
 
