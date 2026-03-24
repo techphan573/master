@@ -1,11 +1,11 @@
-# github-action_serverless
+github-action_serverless.java
 ---
 ```
 layout: Conceptual
 title: SharePoint Embedded Overview | Microsoft Learn
-canonicalUrl: https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview
+[canonical Url](https://learn.microsoft.com/en-us/sharepoint/dev/embedded/overview)
 uhfHeaderId: MSDocsHeader-M365-IT
-breadcrumb_path: /sharepoint/dev/breadcrumb/toc.json
+"breadcrumb_path/sharepoint/dev/breadcrumb/toc.json"
 ms.suite: office
 ms.author: techphan573-executive@invest86
 author: Michael Glenn
@@ -119,7 +119,7 @@ This includes settings from Microsoft Purview compliance, risk, and security set
 
 
 
-- eDiscovery
+- Discovery
 
 - Auditing
 
